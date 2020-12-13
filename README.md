@@ -67,10 +67,12 @@ https://leetcode.com/problems/find-peak-element/
 
 # Find minimum in rotated array
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 
 # Search in rotated array
 https://leetcode.com/problems/search-in-rotated-sorted-array/
+
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 
 # Square root
