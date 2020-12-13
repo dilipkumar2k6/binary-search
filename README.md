@@ -106,9 +106,6 @@ https://leetcode.com/problems/my-calendar-i/
 
 
 
-
-
-
 # Heaters problem
 https://leetcode.com/problems/heaters/
 
@@ -134,6 +131,9 @@ https://leetcode.com/problems/h-index-ii/
 
 # Find duplicate number
 https://leetcode.com/problems/find-the-duplicate-number/
+
+# Find more than 25% 
+https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 
 # Kth smallest in sorted matrix 
 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
