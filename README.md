@@ -137,8 +137,17 @@ https://leetcode.com/problems/find-the-duplicate-number/
 # Find more than 25% 
 https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 
-# Kth smallest in sorted matrix 
+# Kth related problems 
+
 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+
+https://leetcode.com/problems/kth-missing-positive-number/
+
+https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
+
+https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+
+https://leetcode.com/problems/k-th-smallest-prime-fraction/
 
 # 4 sum
 https://leetcode.com/problems/4sum-ii/
@@ -171,18 +180,12 @@ https://leetcode.com/problems/swim-in-rising-water/
 https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/
 
 
-
-# Kth smallest number
-https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
-
 # Count of smallest number
 https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 
 # Scheduling
 https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 
-# Kth smallest
-https://leetcode.com/problems/k-th-smallest-prime-fraction/
 
 # Max sum
 https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
@@ -216,4 +219,13 @@ https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 
 # Median of two sorted array
 https://leetcode.com/problems/median-of-two-sorted-arrays/solution/
+
+# Best meeting point
+https://leetcode.com/problems/best-meeting-point/
+
+# Orderly Queue
+https://leetcode.com/problems/orderly-queue/
+
+# Binary search on tree
+https://leetcode.com/problems/find-mode-in-binary-search-tree/
 
