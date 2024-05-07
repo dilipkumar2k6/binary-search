@@ -96,6 +96,8 @@ https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 # Minimize max distance
 https://leetcode.com/problems/minimize-max-distance-to-gas-station/
 
+Soln: https://leetcode.com/problems/minimize-max-distance-to-gas-station/solutions/113629/approach-the-problem-using-the-trial-and-error-algorithm/
+
 # Split Array largest sum
 https://leetcode.com/problems/split-array-largest-sum/
 
@@ -105,8 +107,6 @@ https://leetcode.com/problems/divide-chocolate/
 
 # Calander booking
 https://leetcode.com/problems/my-calendar-i/
-
-
 
 # Heaters problem
 https://leetcode.com/problems/heaters/
@@ -154,11 +154,6 @@ https://leetcode.com/problems/4sum-ii/
 
 # Shortest distance
 https://leetcode.com/problems/shortest-distance-to-target-color/
-
-
-
-
-
 
 
 # Range 
